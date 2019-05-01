@@ -19,11 +19,11 @@ Or
 
 - Instead of shortcuts, press extension's icon.
 
-## :heart: BIG THANKS TO [Mindaugas Kasiulis](https://github.com/gitguuddd) WHO ENSURED THIS EXTENSION TO WORK AS SMOOTH AS SILK :heart:
+## BIG THANKS TO [Mindaugas Kasiulis](https://github.com/gitguuddd) WHO ENSURED THIS EXTENSION TO WORK AS SMOOTH AS SILK :heart:
 
 ## Changelog
 
-### [v1.0](https://github.com/zygisau/WandBox-helper/releases/tag/v1.0) - (2019-05-01)  
+### [v0.2](https://github.com/zygisau/WandBox-helper/releases/tag/v0.2) - (2019-05-01)  
 
 **Added** 
 
@@ -39,4 +39,4 @@ Or
 
 - Initial release. Changes colors when extension's icon is pressed.
 
-[version-badge]: https://img.shields.io/badge/version-1.0-pink.svg
+[version-badge]: https://img.shields.io/badge/version-0.2-pink.svg
