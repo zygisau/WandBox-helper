@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Wanda Helper extension",
+    "name": "Wandbox extension",
     "description": "This extension will make wandbox console output code more readable by changing background color",
-    "version": "0.1",
+    "version": "0.2",
     "author": "Žygimantas Augūnas",
     "browser_action": {
      "default_icon": "images/icon.png"
@@ -17,5 +17,22 @@
           ],
           "js": ["content.js"]
         }
-    ]
+    ],
+    "commands": {
+      "change-colors-command": {
+        "description":"Change colors",
+        "suggested_key": {
+          "default": "Ctrl+Y",
+          "mac": "Command+Y"
+        }
+      },
+      "_execute_browser_action": {
+        "description":"Change colors",
+        "suggested_key": {
+          "default": "Ctrl+Y",
+          "mac": "Command+Y"
+        }
+      }
+
+    }
   }

@@ -1,6 +1,6 @@
 chrome.runtime.onMessage.addListener(
-    function(request, sender, sendResponse) {
-      if( request.message === "clicked_browser_action" ) {  
+    function(request) {
+      if( request.message === "change_colors" ) {  
         // Recolor background
         document.getElementsByClassName('output-window')[0].style.backgroundColor = 'white';
 
