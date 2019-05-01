@@ -19,6 +19,8 @@ Or
 
 - Instead of shortcuts, press extension's icon.
 
+## :heart: BIG THANKS TO [Mindaugas Kasiulis](https://github.com/gitguuddd) WHO ENSURED THIS EXTENSION TO WORK AS SMOOTH AS SILK :heart:
+
 ## Changelog
 
 ### [v1.0](https://github.com/zygisau/WandBox-helper/releases/tag/v1.0) - (2019-05-01)  
