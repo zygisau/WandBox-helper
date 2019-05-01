@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Wandbox extension",
     "description": "This extension will make wandbox console output code more readable by changing background color",
-    "version": "0.2",
+    "version": "1.0",
     "author": "Žygimantas Augūnas",
     "browser_action": {
      "default_icon": "images/icon.png"
