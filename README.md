@@ -12,7 +12,7 @@ Our OP lecturer uses wandbox to show coding examples. Although, it's really hard
 
 - Open Wandbox
 - Run Your code
-- Press Ctrl + Y (Mac: Fn + Y)
+- Press Ctrl + Y (Mac: Command + Y)
 - Enjoy simple and light color scheme of the console
 
 Or
@@ -22,12 +22,6 @@ Or
 ## BIG THANKS TO [Mindaugas Kasiulis](https://github.com/gitguuddd) WHO ENSURED THIS EXTENSION TO WORK AS SMOOTH AS SILK :heart:
 
 ## Changelog
-
-### [v0.2.1](https://github.com/gitguuddd/WandBox-helper/releases/tag/v0.2.1) - (2019-05-06)  
-
-**Edited**
-
-- Due to issues with already reserved shortcuts, the shortcut for Mac systems was changed from "Command+Y" to "Fn+Y"
 
 ### [v0.2](https://github.com/zygisau/WandBox-helper/releases/tag/v0.2) - (2019-05-01)  
 
