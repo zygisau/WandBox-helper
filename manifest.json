@@ -23,14 +23,14 @@
         "description":"Change colors",
         "suggested_key": {
           "default": "Ctrl+Y",
-          "mac": "Command+Y"
+          "mac": "Fn+Y"
         }
       },
       "_execute_browser_action": {
         "description":"Change colors",
         "suggested_key": {
           "default": "Ctrl+Y",
-          "mac": "Command+Y"
+          "mac": "Fn+Y"
         }
       }
 
