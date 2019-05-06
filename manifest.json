@@ -22,8 +22,8 @@
       "change-colors-command": {
         "description":"Change colors",
         "suggested_key": {
-          "default": "Ctrl+Y",
-          "mac": "Fn+Y"
+          "default": "Ctrl+Shift+Y",
+          "mac": "Command+Shift+Y"
         }
       },
       "_execute_browser_action": {
