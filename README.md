@@ -23,7 +23,7 @@ Or
 
 ## Changelog
 
-### [v0.2.1](https://github.com/zygisau/WandBox-helper/releases/tag/v0.2.1) - (2019-05-06)  
+### [v0.2.1](https://github.com/gitguuddd/WandBox-helper/releases/tag/v0.2.1) - (2019-05-06)  
 
 **Edited**
 
