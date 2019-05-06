@@ -27,7 +27,7 @@ Or
 
 **Edited**
 
-- Due to issues with already reserved shortcuts, the shortcut for Mac systems was changed from "Command+Y" to "Command + Shift + Y", the default shortcur was respectively changed to "Ctrl + Shift + Y"
+- Due to issues with already reserved shortcuts, the shortcut for Mac systems was changed from "Command+Y" to "Command + Shift + Y", the default shortcut was respectively changed to "Ctrl + Shift + Y"
 
 ### [v0.2](https://github.com/zygisau/WandBox-helper/releases/tag/v0.2) - (2019-05-01)  
 
